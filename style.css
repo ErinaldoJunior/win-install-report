@@ -127,10 +127,10 @@ footer {
   transform: translate3d(-20px, 0, 0);
 }
 
-[data-anime] {
+[data-animacao] {
   opacity: 0;
 }
-.anime {
+.animacao {
   opacity: 1;
   transform: none;
   transition: transform 0.8s, opacity 0.8s;
